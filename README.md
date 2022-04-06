@@ -1,9 +1,13 @@
 
 # 16encoder - 4x4 Macropad, Encoder and Vial Support
-![Built](https://i.imgur.com/c7DsltT.jpg)
-
+<p align="center">
+  <img src="https://i.imgur.com/c7DsltT.jpg">
+</p>  
+  
 ## Wiring Guide
-![WiringGuide](https://i.imgur.com/JVrGvly.pngg)   
+<p align="center">
+  <img src="https://i.imgur.com/JVrGvly.pngg">
+</p>  
   
 As long as you wire following the diagram the firmware should be ready to use.  
 
