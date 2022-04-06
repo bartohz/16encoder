@@ -1,2 +1,2 @@
-# 16encoder
-Handwired 4x4 Macropad with an Encoder - Vial Supported
+# 16encoder - A handwired 4x4 Macropad with an Encoder and Vial Support
+
