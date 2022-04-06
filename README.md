@@ -1,7 +1,6 @@
 
 # 16encoder - 4x4 Macropad, Encoder and Vial Support
 ![Built](https://i.imgur.com/c7DsltT.jpg)
-![Preview](https://i.imgur.com/EaflcZC.jpg)
 
 ## Wiring Guide
 ![WiringGuide](https://i.imgur.com/JVrGvly.pngg)  
