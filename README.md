@@ -1,12 +1,13 @@
-<p align="center">
 # 16encoder - 4x4 Macropad, Encoder and Vial Support
+<p align="center">
   <img src="https://i.imgur.com/c7DsltT.jpg">
-  
+</p>  
 ## Wiring Guide
+<p align="center">
   <img src="https://i.imgur.com/XqKKAZs.png">
-  
+</p>  
 As long as you wire following the diagram the firmware should be ready to use.  
-  </p>  
+ 
 
 ## Materials
 - [Pro Micro ATmega32U4](https://www.aliexpress.com/item/32768308647.html?spm=a2g0o.order_list.0.0.21ef1802lmFpbr)
