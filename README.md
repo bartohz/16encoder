@@ -3,7 +3,7 @@
 ![Preview](https://i.imgur.com/EaflcZC.jpg)
 
 ## Wiring Guide
-![WiringGuide](https://i.imgur.com/JVrGvly.pngg)
+![WiringGuide](https://i.imgur.com/JVrGvly.pngg)  
 As long as you wire following the diagram the firmware should be ready to use.
 
 ## Materials
