@@ -3,8 +3,9 @@
 ![Built](https://i.imgur.com/c7DsltT.jpg)
 
 ## Wiring Guide
-![WiringGuide](https://i.imgur.com/JVrGvly.pngg)  
-As long as you wire following the diagram the firmware should be ready to use.
+![WiringGuide](https://i.imgur.com/JVrGvly.pngg)   
+  
+As long as you wire following the diagram the firmware should be ready to use.  
 
 ## Materials
 - [Pro Micro ATmega32U4](https://www.aliexpress.com/item/32768308647.html?spm=a2g0o.order_list.0.0.21ef1802lmFpbr)
