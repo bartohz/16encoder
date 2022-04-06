@@ -1,5 +1,5 @@
 
-# 16encoder - 4x4 Macropad with an Encoder and Vial Support
+# 16encoder - 4x4 Macropad, Encoder and Vial Support
 
 ## **Wiring Guide**
 To be added.
